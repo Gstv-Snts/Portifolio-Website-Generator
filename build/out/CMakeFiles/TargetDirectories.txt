@@ -1,0 +1,7 @@
+/home/gustavo/Documents/Portifolio-Website-Generator/build/out/CMakeFiles/cpp.dir
+/home/gustavo/Documents/Portifolio-Website-Generator/build/out/CMakeFiles/edit_cache.dir
+/home/gustavo/Documents/Portifolio-Website-Generator/build/out/CMakeFiles/rebuild_cache.dir
+/home/gustavo/Documents/Portifolio-Website-Generator/build/out/CMakeFiles/list_install_components.dir
+/home/gustavo/Documents/Portifolio-Website-Generator/build/out/CMakeFiles/install.dir
+/home/gustavo/Documents/Portifolio-Website-Generator/build/out/CMakeFiles/install/local.dir
+/home/gustavo/Documents/Portifolio-Website-Generator/build/out/CMakeFiles/install/strip.dir
