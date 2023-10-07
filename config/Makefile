@@ -4,4 +4,10 @@ build:
 run:
 	cmake -S . -B ../build/out
 	cd ../build/out; sudo make install
-	cpp
+	PortifolioWebsiteGenerator
+
+debug:
+	cmake -S . -B ../build/out
+	cd ../build/out; sudo make install; gdb ./PortifolioWebsiteGenerator core
+	r
+	
